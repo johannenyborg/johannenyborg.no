@@ -1,8 +1,8 @@
 {
   "main.css": "static/css/main.fc39549f.css",
   "main.css.map": "static/css/main.fc39549f.css.map",
-  "main.js": "static/js/main.6e957f46.js",
-  "main.js.map": "static/js/main.6e957f46.js.map",
+  "main.js": "static/js/main.2c1aef74.js",
+  "main.js.map": "static/js/main.2c1aef74.js.map",
   "static/media/1.png": "static/media/1.22c7382b.png",
   "static/media/10.png": "static/media/10.fa188974.png",
   "static/media/11.png": "static/media/11.5787d217.png",
@@ -15,10 +15,10 @@
   "static/media/7.png": "static/media/7.54959a65.png",
   "static/media/8.png": "static/media/8.85774253.png",
   "static/media/9.png": "static/media/9.c7f66da6.png",
-  "static/media/art_direction.mp4": "static/media/art_direction.0a49fc88.mp4",
-  "static/media/farlege.gif": "static/media/farlege.a32d88ed.gif",
-  "static/media/handywoman.mp4": "static/media/handywoman.0592becf.mp4",
-  "static/media/johanne.mp4": "static/media/johanne.49af2470.mp4",
-  "static/media/smilefjes.gif": "static/media/smilefjes.d68977ea.gif",
-  "static/media/viktige.gif": "static/media/viktige.abcf01e0.gif"
+  "static/media/art_direction.mp4": "static/media/art_direction.3739ef61.mp4",
+  "static/media/farlege.gif": "static/media/farlege.ea2d0d8c.gif",
+  "static/media/handywoman.mp4": "static/media/handywoman.8abfeac3.mp4",
+  "static/media/havplast.gif": "static/media/havplast.06daea70.gif",
+  "static/media/johanne.mp4": "static/media/johanne.14c86ded.mp4",
+  "static/media/smilefjes.gif": "static/media/smilefjes.d68977ea.gif"
 }
