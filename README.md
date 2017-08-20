@@ -1,2 +1,0 @@
-# johannenyborg.no
-# johannenyborg.no
